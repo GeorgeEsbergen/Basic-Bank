@@ -19,7 +19,7 @@ class sqlData{
   initialDb() async{
     String databasePath = await getDatabasesPath();
     String path = join(databasePath , "bank.db");
-    Database mydb = await openDatabase(path ,onCreate: _onCreate , version: 5, onUpgrade: _onUpgrade );
+    Database mydb = await openDatabase(path ,onCreate: _onCreate , version: 9, onUpgrade: _onUpgrade );
     return mydb;
   }
 

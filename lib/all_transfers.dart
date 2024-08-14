@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_this
+
 import 'package:basic_bank/sqlite.dart';
 import 'package:basic_bank/startscreen.dart';
 import 'package:basic_bank/test.dart';

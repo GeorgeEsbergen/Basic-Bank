@@ -84,11 +84,13 @@ class NewCustomer extends StatelessWidget {
                           if (response > 0) {
                             // ignore: use_build_context_synchronously
                             Navigator.pushAndRemoveUntil(
+                                // ignore: use_build_context_synchronously
                                 context,
                                 MaterialPageRoute(
                                     builder: (context) => const StartScreen()),
                                 (route) => false);
                           }
+                          // ignore: avoid_print
                           print(response);
                         }),
                 /*    mainButton(
