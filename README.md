@@ -45,13 +45,15 @@ A simple banking app built with Flutter and Dart, utilizing SQLite for local dat
 
 <p align="center">
   <img src="screenshots/1homepage.jpg" alt="App Screenshot 1" width="300" style="margin-right: 20px;">
-  <img src="screenshots/2add_customer.jpg" alt="App Screenshot 1" width="300" style="margin-right: 20px;">
-  <img src="screenshots/3view_customer.jpg" alt="App Screenshot 2" width="300">
+  <img src="screenshots/2add_customer.jpg" alt="App Screenshot 2" width="300">
 </p>
 
+<p align="center">
+  <img src="screenshots/3view_customer.jpg" alt="App Screenshot 1" width="300" style="margin-right: 20px;">
+  <img src="screenshots/4customer_details.jpg" alt="App Screenshot 2" width="300">
+</p>
 
 <p align="center">
-  <img src="screenshots/4customer_details.jpg" alt="App Screenshot 1" width="300" style="margin-right: 20px;">
   <img src="screenshots/5transfer_to.jpg" alt="App Screenshot 1" width="300" style="margin-right: 20px;">
   <img src="screenshots/6balnce.jpg" alt="App Screenshot 2" width="300">
 </p>
