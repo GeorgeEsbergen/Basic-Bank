@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="screenshots/bank.png" alt="Logo" width="300" height="300">
+  <img src="screenshots/first.png" alt="Logo" >
 </p>
 
 # Basic Bank
